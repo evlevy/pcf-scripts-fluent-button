@@ -1,0 +1,13 @@
+{
+  "extends": "./node_modules/pcf-scripts/tsconfig_base.json",
+  "compilerOptions": {
+    "module": "ES6",
+    "moduleResolution": "node",
+    "typeRoots": ["./node_modules", "./node_modules/@types"],
+    "baseUrl": ".",
+    "outDir": "./lib",
+    "jsx": "react",
+    "esModuleInterop": true
+  },
+  "include": ["./MyButton"]
+}
