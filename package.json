@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "build": "pcf-scripts build --production"
+    "build": "pcf-scripts build",
+    "clean": "pcf-scripts clean"
   },
   "dependencies": {
     "@fluentui/react-components": "9.7.1",
