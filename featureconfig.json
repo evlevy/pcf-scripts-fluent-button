@@ -1,3 +1,4 @@
 {
-  "pcfAllowCustomWebpack": "on"
+	"pcfAllowLibraryResources": "on",
+	"pcfAllowCustomWebpack": "on"
 }

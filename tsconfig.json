@@ -7,7 +7,7 @@
     "baseUrl": ".",
     "outDir": "./lib",
     "jsx": "react",
-    "esModuleInterop": true
+    "esModuleInterop": true,
   },
   "include": ["./MyButton"]
 }

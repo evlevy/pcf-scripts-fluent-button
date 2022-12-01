@@ -3,6 +3,7 @@
   <control namespace="MyControls" constructor="MyButton"  version="0.0.1" display-name-key="key" control-type="virtual">
     <property name="value" display-name-key="MyButton_Value" of-type="SingleLine.Text" usage="bound" required="true" />
     <resources>
+      <platform-library name="React" version="16.8.6" />
       <code path="index.ts" order="1" />
     </resources>
   </control>
